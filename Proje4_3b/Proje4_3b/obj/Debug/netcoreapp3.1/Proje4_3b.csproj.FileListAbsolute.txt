@@ -1,0 +1,14 @@
+D:\OkulC#\Proje4_3b\Proje4_3b\bin\Debug\netcoreapp3.1\Proje4_3b.exe
+D:\OkulC#\Proje4_3b\Proje4_3b\bin\Debug\netcoreapp3.1\Proje4_3b.deps.json
+D:\OkulC#\Proje4_3b\Proje4_3b\bin\Debug\netcoreapp3.1\Proje4_3b.runtimeconfig.json
+D:\OkulC#\Proje4_3b\Proje4_3b\bin\Debug\netcoreapp3.1\Proje4_3b.runtimeconfig.dev.json
+D:\OkulC#\Proje4_3b\Proje4_3b\bin\Debug\netcoreapp3.1\Proje4_3b.dll
+D:\OkulC#\Proje4_3b\Proje4_3b\bin\Debug\netcoreapp3.1\Proje4_3b.pdb
+D:\OkulC#\Proje4_3b\Proje4_3b\obj\Debug\netcoreapp3.1\Proje4_3b.csproj.AssemblyReference.cache
+D:\OkulC#\Proje4_3b\Proje4_3b\obj\Debug\netcoreapp3.1\Proje4_3b.GeneratedMSBuildEditorConfig.editorconfig
+D:\OkulC#\Proje4_3b\Proje4_3b\obj\Debug\netcoreapp3.1\Proje4_3b.AssemblyInfoInputs.cache
+D:\OkulC#\Proje4_3b\Proje4_3b\obj\Debug\netcoreapp3.1\Proje4_3b.AssemblyInfo.cs
+D:\OkulC#\Proje4_3b\Proje4_3b\obj\Debug\netcoreapp3.1\Proje4_3b.csproj.CoreCompileInputs.cache
+D:\OkulC#\Proje4_3b\Proje4_3b\obj\Debug\netcoreapp3.1\Proje4_3b.dll
+D:\OkulC#\Proje4_3b\Proje4_3b\obj\Debug\netcoreapp3.1\Proje4_3b.pdb
+D:\OkulC#\Proje4_3b\Proje4_3b\obj\Debug\netcoreapp3.1\Proje4_3b.genruntimeconfig.cache
